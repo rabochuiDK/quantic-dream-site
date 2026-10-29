@@ -9,6 +9,7 @@
 Фанатский сайт, посвящённый играм Quantic Dream: Detroit: Become Human, Heavy Rain, Beyond: Two Souls, Fahrenheit и Under the Waves.
 
 🌐 **[Открыть сайт Quantic Dream](https://rabochuidk.github.io/quantic-dream-site/)**
+
 🛠️ Технологии
 
 <p>
