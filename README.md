@@ -1,33 +1,22 @@
-# QuanticDream — Миры Quantic Dream
+👋 Привет! Я начинающий разработчик
 
-Учебный проект по созданию сайта, посвящённого играм студии Quantic Dream. Основа — сайт, переработанный под тематику Quantic Dream с сохранением структуры HTML, стилей CSS и JavaScript.
+Изучаю веб-разработку и программирование, создаю собственные проекты и постепенно развиваю навыки.
 
-На сайте представлены игры студии: Detroit: Become Human, Heavy Rain, Beyond: Two Souls, Fahrenheit: Indigo Prophecy Remastered и Under the Waves.
+🚀 Мой проект
 
-## Запуск
+🎮 Quantic Dream — интерактивные истории
 
-Для просмотра сайта открой файл `index.html` в браузере.
+Фанатский сайт, посвящённый играм Quantic Dream: Detroit: Become Human, Heavy Rain, Beyond: Two Souls, Fahrenheit и Under the Waves.
 
-Также сайт можно опубликовать с помощью GitHub Pages и получить ссылку, доступную другим пользователям в интернете.
+🌐 Открыть сайт
 
-## Содержание сайта
+💻 Исходный код проекта
 
-| Раздел | Описание |
-| --- | --- |
-| Главная страница | Представление студии Quantic Dream и её игровых проектов |
-| Detroit: Become Human | Информация об игре и ссылка на её страницу в Steam |
-| Heavy Rain | Информация об игре и ссылка на её страницу в Steam |
-| Beyond: Two Souls | Информация об игре и ссылка на её страницу в Steam |
-| Fahrenheit: Indigo Prophecy Remastered | Информация об игре и ссылка на её страницу в Steam |
-| Under the Waves | Информация об игре и ссылка на её страницу в Steam |
+🛠️ Технологии
 
-Сайт оформлен в едином стиле, посвящённом играм Quantic Dream. Для представления игровых проектов используются изображения, карточки и описания. Предусмотрены переходы к соответствующим страницам игр.
-
-Проект предназначен для учебных целей и демонстрирует работу HTML, CSS и JavaScript при создании сайта с несколькими игровыми разделами.
-
-Названия игр, логотипы и изображения принадлежат соответствующим правообладателям.
-
-В пункте 4.4 использован требуемый пособием ejs-locals 1.0.2. Его вложенный
-EJS 0.8.8 устарел; npm audit сообщает о двух критических уязвимостях.
-Этот вариант предназначен для локального учебного запуска.
-
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
